@@ -1,0 +1,10 @@
+{
+  /*S3, STOUT, ELASTICSEARCH*/
+  "sink_type" : ["S3", "STDOUT"],
+  "s3" : {
+
+  },
+  "elasticsearch" : {
+
+  }
+}
